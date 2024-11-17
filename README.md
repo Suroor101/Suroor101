@@ -1,9 +1,10 @@
 ## Muhammed Suroor M 👌
-### Python developer
+### Cybersecurity Enthsiast
 
 
-I am a Btech student pursuing Computer Sciece AI ML Degree from Sree Chitra Thirunal College of Engineering. Currently in my final year. Know a bit of python and web development
 
-* Currently working on : Platoon robotics
-* Latest Project : [Job Recommendation System](https://www.github.com/Suroor101/Job-Recommendation-System)
-* Skills : HTML , Flask ,Python
+I am a Btech Computer Sciece (AI & ML) Graduate from Sree Chitra Thirunal College of Engineering. Currently Pursuing CEH
+
+* Currently working on : Cybersecurity Projects
+* Latest Project : Reinforcement Learning Assisted Platooning In Autonomous Vehicles
+* Skills : Cybersecurity, Vulnerability Scanning, Penetration Testing, Threat Analysis, Python
