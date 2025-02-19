@@ -3,7 +3,7 @@
 
 
 
-I am a Btech Computer Sciece (AI & ML) Graduate from Sree Chitra Thirunal College of Engineering. Currently Pursuing CEH
+I am a Btech Computer Sciece (AI & ML) Graduate from Sree Chitra Thirunal College of Engineering. Currently learning Cybersecurity 
 
 * Currently working on : Cybersecurity Projects
 * Latest Project : Packet Sniffer
